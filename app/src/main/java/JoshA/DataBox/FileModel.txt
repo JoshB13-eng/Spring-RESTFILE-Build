@@ -1,0 +1,2 @@
+
+//No model class is needed in this application. This application is main for uploading and downloading file. That is all.

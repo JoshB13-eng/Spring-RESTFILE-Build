@@ -1,0 +1,2 @@
+
+//This is a Learning-Testing app and not a Main app, so I will not need any Exception handler in order to make my building more faster
